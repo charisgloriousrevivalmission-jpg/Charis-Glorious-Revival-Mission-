@@ -8,7 +8,7 @@ Official website for **Charis Glorious Revival Mission** — a Bible-believing c
 
 ## 🌐 Live Site
 
-[www.charisgloriousrevivalmission.org](http://www.charisgloriousrevivalmission.org)
+(https://charisgloriousrevivalmission-jpg.github.io/Charis-Glorious-Revival-Mission-/)
 
 ---
 
